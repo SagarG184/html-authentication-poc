@@ -1,28 +1,29 @@
-# HTML Authentication POC
+# Bootstrap Authentication POC
 
-This is a simple HTML Authentication Proof of Concept project.
+## Description
+This project demonstrates a simple authentication UI using Bootstrap 5.
 
-## Pages included
-
-- login.html
+## Pages
+- index.html (Login)
 - register.html
 - forgot-password.html
 - reset-password.html
 - dashboard.html
 
 ## Features
+- Bootstrap 5 integration
+- Responsive design
+- Clean UI using card layout
+- Navigation using anchor tags
+- Custom CSS styling
 
-- Proper redirections using anchor tags
-- No CSS or JavaScript used
-- Plain HTML only
+## Technologies Used
+- HTML
+- Bootstrap 5
+- CSS
 
-## Navigation Flow
+## How to Run
+Open index.html in your browser
 
-Login → Dashboard  
-Register → Login  
-Forgot Password → Reset Password → Login  
-Dashboard → Logout → Login  
-
-## Repository Link Format
-
+## Repository Link
 https://github.com/YOUR-USERNAME/html-authentication-poc
